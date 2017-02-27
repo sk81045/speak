@@ -13,14 +13,15 @@ position:absolute;
 width: 70%;
 height: 200px;	
 left:15%;
-top:20%;
+top:29%;
 margin-top:-100px;
 /*background-color: red; */
 }
 #gt-appname{
-	font-size: 29px;
+	font-size: 40px;
 	color: #dd4b39;
-	font-family: serif;
+	font-family: sans-serif;
+	border-style: solid;
 }
 .fanyi{
 	position: absolute;
@@ -33,7 +34,7 @@ width:100%;
 height:1px;
 /*left:15%;*/
 top:100%; 
-margin-top:-100px;
+margin-top:-65px;
 background-color:#f1f1f1;
 }
 .xx{
@@ -61,13 +62,18 @@ margin-top:-100px;
 position:absolute;
 width:70%;
 height:200px;
-left:45%;
+left:50%;
 top:66%; 
 margin-top:-100px;
 }
 
 h1 {
 	font-family: sans-serif;
+}
+
+h3 {
+color: transparent;
+-webkit-text-stroke: 4px red;
 }
 .gt-submit{
 	background-color:#4d90fe;
