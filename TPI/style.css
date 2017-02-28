@@ -97,3 +97,8 @@ color: transparent;
     font-weight: bold;
     border-radius: 5px 5px 5px 5px;
 }
+.gt-ft{
+	position:absolute;
+	left:50%;
+	top:90%;
+}
